@@ -1,0 +1,56 @@
+{
+  "name": "reactproject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.0.1",
+    "@material-ui/icons": "^4.0.1",
+    "bootstrap": "^4.3.1",
+    "component-playground": "^3.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.15",
+    "material-design-icons": "^3.0.1",
+    "open": "^7.0.0",
+    "oracledb": "^3.1.2",
+    "popper.js": "^1.15.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-qr-reader": "^2.2.1",
+    "react-responsive-table": "^2.0.15",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-super-responsive-table": "^5.0.0",
+    "react-table-tree": "^1.2.0",
+    "reactabular": "^8.3.0",
+    "reactabular-table": "^8.14.0",
+    "reactabular-visibility-toggles": "^6.0.0",
+    "reactive-qr": "^0.1.6",
+    "reactstrap": "^8.0.0",
+    "redux": "^4.0.4",
+    "searchtabular": "^1.9.0",
+    "sortabular": "^1.6.0",
+    "table-resolver": "^4.1.1",
+    "treetabular": "^3.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
