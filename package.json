@@ -20,7 +20,7 @@
     "react-dom": "^16.8.6",
     "react-qr-reader": "^2.2.1",
     "react-responsive-table": "^2.0.15",
-    "react-router-dom": "^5.0.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "3.0.1",
     "react-super-responsive-table": "^5.0.0",
     "react-table-tree": "^1.2.0",
